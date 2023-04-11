@@ -1,0 +1,19 @@
+{
+  "name": "chrome-devtools",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "Damilola Ezekiel",
+    "email": ""
+  },
+  "repository": "/chromedevtools",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
