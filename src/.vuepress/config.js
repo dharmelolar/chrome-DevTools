@@ -52,7 +52,7 @@ module.exports = {
           title: 'Chrome Browser',
           collapsable: true,
           children: [
-            '','device-mode',
+            '','device-mode','workspaces',
             'elements','console', 'sources',
           ]
         }

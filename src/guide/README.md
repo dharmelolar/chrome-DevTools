@@ -19,7 +19,7 @@ Chrome DevTools can be used to test and modify HTML, CSS, and JavaScript code, v
 3. Right click on any part of a webpage and select `Inspect` to open devTools. 
    
 ## Features Of the Chrome DevTools
-The chrome devTools contains diffferent features that make development easier for developers.The chrome devtools has different tabs that will be futher explained in this documentation :
+The chrome devtools contains diffferent features that make development easier for developers.The chrome devtools has different tabs that will be futher explained in this documentation :
 
 - Elements
 - Console
@@ -35,6 +35,6 @@ The chrome devTools contains diffferent features that make development easier fo
   
 ![chrome-devtools](https://res.cloudinary.com/dharme/image/upload/v1681212624/Screenshot_2023-04-11_at_12.29.04_dblsta.png)
 
-To access the other tabs available in the devtools, click on the three dotted icon  in the devtools and navigate to more tools.
+To access the other tabs available in the devtools, click on the three-dotted icon in the devtools and navigate to more tools.
 
 ![chrome devtools](https://res.cloudinary.com/dharme/image/upload/v1681211629/Screenshot_2023-04-11_at_11.43.23_wgnzui.png)
