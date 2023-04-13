@@ -37,13 +37,13 @@ module.exports = {
         text: 'Guide',
         link: '/guide/',
       },
+      // {
+      //   text: 'Config',
+      //   link: '/config/'
+      // },
       {
-        text: 'Config',
-        link: '/config/'
-      },
-      {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
+        text: 'Github',
+        link: 'https://github.com/dharmelolar/chrome-DevTools.git'
       }
     ],
     sidebar: {
