@@ -55,8 +55,25 @@ module.exports = {
             '','device-mode','workspaces',
             'elements','console', 'sources',
           ]
+        },
+        {
+          title: 'Firefox Browser',
+          collapsable: true,
+          children: [
+            '','device-mode','workspaces',
+            'elements','console', 'sources',
+          ]
+        },
+        {
+          title: 'Safari Browser',
+          collapsable: true,
+          children: [
+            '','device-mode','workspaces',
+            'elements','console', 'sources',
+          ]
         }
       ],
+      
     }
   },
 
