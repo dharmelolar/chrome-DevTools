@@ -2,7 +2,7 @@
 
 Workspaces is a feature that allows you to link local project files with a live website and make and save changes to the source code directly from the devtools. 
 
-<!-- Usually when you're debugging or testing in devtools, the changes you make disappears as soon as you refresh the browser, but workspaces saves this changes directly to the source code.This saves time and also enables a faster and more efficient workflow in development and debugging. -->
+Usually when you're debugging or testing in devtools, the changes you make disappears as soon as you refresh the browser, but workspaces saves this changes directly to the source code.This saves time and also enables a faster and more efficient workflow in development and debugging.
 
 When debugging or testing in DevTools, changes made usually disappear as soon as the browser is refreshed. However, Workspaces directly saves these changes to the source code, saving time and enabling a faster and more efficient workflow in development and debugging
 

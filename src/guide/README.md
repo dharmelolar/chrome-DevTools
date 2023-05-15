@@ -5,6 +5,8 @@ Chrome Developer Tools also know as DevTools is a set of built-in web developer 
 
 Chrome DevTools can be used to test and modify HTML, CSS, and JavaScript code, view and manipulate a web page's Document Object Model (DOM), monitor network activity, and analyze performance metrics. It is an essential tool for developers, providing them with the resources to improve the quality and functionality of their applications.
 
+
+
 ## How to Access the Chrome DevTools
 
 1. Using Keyboard Shortcuts
