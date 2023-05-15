@@ -36,6 +36,7 @@ module.exports = {
       {
         text: 'Guide',
         link: '/guide/',
+
       },
       // {
       //   text: 'Config',
@@ -53,7 +54,7 @@ module.exports = {
           collapsable: true,
           children: [
             '','device-mode','workspaces',
-            'elements','console', 'sources',
+            'elements','console', 'sources','command-palette','design-mode',
           ]
         },
         {
