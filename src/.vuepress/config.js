@@ -31,7 +31,10 @@ module.exports = {
     editLinks: false,
     docsDir: '',
     editLinkText: '',
-    lastUpdated: true,
+    smoothScroll: true,
+    lastUpdated: 'Last Updated',
+    searchPlaceholder: 'Search...',
+    backToTop: true,
     nav: [
       {
         text: 'Guide',
@@ -51,28 +54,12 @@ module.exports = {
       '/guide/': [
         {
           title: 'Chrome Browser',
-          collapsable: true,
+          collapsable: false,
           children: [
             '','device-mode','workspaces',
-            'elements','console', 'sources','command-palette','design-mode',
+            'elements','console','command-palette','design-mode','debug-javascript',
           ]
         },
-        {
-          title: 'Firefox Browser',
-          collapsable: true,
-          children: [
-            '','device-mode','workspaces',
-            'elements','console', 'sources',
-          ]
-        },
-        {
-          title: 'Safari Browser',
-          collapsable: true,
-          children: [
-            '','device-mode','workspaces',
-            'elements','console', 'sources',
-          ]
-        }
       ],
       
     }

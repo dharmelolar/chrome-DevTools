@@ -7,6 +7,6 @@ The Command Palette is a collection of commands present in the dev tools that al
 - MacOS : `CMD` + `Shift` + `P`
 - Windows : `Ctrl` + `Shift` + `P`
 
-Quick Tip : You have to open your devtool to accessthe command palette.
+Quick Tip : You have to open your devtool to access the command palette.
 
 ![Screenshot of the command palette](https://res.cloudinary.com/dharme/image/upload/v1684152122/screenshot-rocks_9_tjc4t6.png)
