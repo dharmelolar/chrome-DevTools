@@ -4,7 +4,7 @@ Chrome DevTools allows you to inspect and analyze your JavaScript code in real-t
 
 ## Using Console.log Method
 
-This is thee simplest and the most common technique for debugging Javascript code. It lets you print messages or values to the console, which can help you understand the flow of your code and inspect variable values at different points.
+This is the simplest and the most common technique for debugging Javascript code. It lets you print messages or values to the console, which can help you understand the flow of your code and inspect variable values at different points.
 
 While using Console.log is very convenient for debugging, it has some downsides to it:
 

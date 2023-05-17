@@ -61,7 +61,8 @@ module.exports = {
           collapsable: false,
           children: [
             '','device-mode','workspaces',
-            'elements','console','command-palette','design-mode','debug-javascript',
+            'elements','command-palette','design-mode',
+            'debug-javascript','finding-unused-code','remote-debugging','devtools-customization'
           ]
         },
       ],
