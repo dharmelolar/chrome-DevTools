@@ -11,6 +11,7 @@ The Coverage panel in Chrome DevTools can help you find unused JavaScript and CS
 - Click on the `Coverage` tab within the Sources tab.
 - Click the `Reload` button to reload the page with code coverage enabled.
 
+![alt text](https://res.cloudinary.com/dharme/image/upload/v1684408188/coverage-panel_qakbng.png)
 - Chrome will re-run the page with coverage instrumentation, tracking which parts of the code are executed during page load.
 
 - After the page loads, the Coverage panel will display a report of the coverage results. This will indicate which parts of the code were used and which were not.
