@@ -10,9 +10,9 @@ Chrome's DevTools can be customized to meet your specific requirements and perso
 
 ![alt text](https://res.cloudinary.com/dharme/image/upload/v1684448792/dock_kacox1.png)
 
-- 1: docks to a seperaate window
-- 2: docks to the left
-- 3: docks to the bottom
-- 4: docks to the right. This is the default dock settings.
+- **1:** docks to a seperaate window.
+- **2:** docks to the left.
+- **3:**docks to the bottom.
+- **4:** docks to the right. This is the default dock settings.
 
 ![alt text](https://res.cloudinary.com/dharme/image/upload/v1684448792/devtools-dock_l3u2he.png)
