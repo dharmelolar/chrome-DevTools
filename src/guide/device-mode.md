@@ -17,6 +17,7 @@ Click on the dropdown icon in the dimension list to see other device types. You 
 
 
 ## Add Custom Devices 
+
 To add a custom device that is not on the list, click on the `add custom devices` and fill in the correct details.
 
 ![device mode of chrome devtools](https://res.cloudinary.com/dharme/image/upload/v1681225174/Screenshot_2023-04-11_at_15.40.28_e1tchw.png)

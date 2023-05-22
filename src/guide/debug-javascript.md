@@ -16,6 +16,7 @@ To minimize these downsides, it is recommended to use a combination of debugging
 
 
 ## Sources Tab
+
 The Sources tab of the DevTools allows you to inspect and debug javascript code that is running on the browser.
 
 The Sources tab has three parts:
